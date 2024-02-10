@@ -1,0 +1,57 @@
+{
+    "attachments": [],
+    "resource_id": 26947,
+    "current_version_id": 49508,
+    "download_count": 0,
+    "resource_version_id": 51839,
+    "version_string": "1.3",
+    "last_update": 1694419206,
+    "rating_avg": 4.78689,
+    "rating_count": 0,
+    "rating_sum": 0,
+    "resource_category_id": 7,
+    "resource_date": 1686306140,
+    "review_count": 63,
+    "tag_line": "The first public tire\/tyre thermals and tyre wear mod in BeamNG.Drive!",
+    "update_count": 6,
+    "path": "MDQKSX6UR\/49508\/",
+    "filename": "LuuksTyreThermalsAndWear.zip",
+    "title": "Luuks Tyre Thermals and Wear Mod",
+    "user_id": 53119,
+    "username": "lucky4luuk",
+    "tagid": "MDQKSX6UR",
+    "message": "[CENTER][IMG]https:\/\/cdn.discordapp.com\/attachments\/1104452581675237396\/1116423134053138532\/luuks_tyre_tw_mod_logo_small.png[\/IMG]\n[B][I]If you are trying this mod, keep in mind it's still a heavy WIP. Take a look at the Known issues and Upcoming features sections for more information.[\/I][\/B][\/CENTER]\n[B]\nMy friends and enemies. It's time for tyre thermals and tyre wear![\/B]\nLet me introduce you to the first publicly available mod that provides both tyre thermals and tyre wear!\nHave you ever felt like doing a burnout didn't destroy your tyres enough? Have you ever thought \"wow, wouldn't it be cool if I had to manage my tyre wear\"? No? Well fear not, this mod is still a great option for you! With the extra realism this mod adds, you can finally satisfy that inner simrace-nerd in you.\n\n[CENTER][IMG]https:\/\/cdn.discordapp.com\/attachments\/1104452581675237396\/1123561859790946304\/image.png[\/IMG]\n[I]Reworked UI from v1.0.1\n\n[MEDIA=youtube]_VdeqLUeHCg[\/MEDIA]\n[I]Showcase video for v0.1 by [USER=477185]@bowtiedylan[\/USER][\/I][\/I][\/CENTER]\n\n\n[B][U]Mod features:[\/U][\/B]\n- [B]Multiplayer compatible[\/B];\n- Tyre thermals based on several factors (such as tyre slip and load);\n- Tyre wear based on similar factors, and the tyre thermals;\n- 4 temperature zones (inner, center, outer and core);\n- Dynamic tyre grip based on thermals and wear;\n- Support for various compounds (standards, sports and race tyres);\n\n[B][U]Known issues:[\/U][\/B]\n- Tyres don't burst yet from their wear being too low;\n\n[B][U]Upcoming features:[\/U][\/B]\n- Wet tyre support;\n- Hard\/medium\/soft compound support;\n- Accompanying BeamMP plugin for pitstops\/tire swaps;\n- Bursting tyres with low tyre wear (WIP because BeamMP desync);\n\n[B][U]Want to support me?[\/U][\/B]\nI've set up a Ko-Fi if you want to support me in my modding journey!\n[URL]https:\/\/ko-fi.com\/lucky4luuk[\/URL]\nI also have a Discord server!\n[URL]https:\/\/discord.gg\/mVcQAR4CFH[\/URL]\n\n[B][U]Try my other mods too! This mod goes perfectly together with:[\/U][\/B]\n- [URL]https:\/\/www.beamng.com\/resources\/luuks-drafting-mod.26914\/[\/URL]\n- [URL]https:\/\/www.beamng.com\/resources\/luuks-radar-mod.28768\/[\/URL]\n\n[B][U]Contributors:[\/U][\/B]\n- [USER=393895]@Zesty_Maple98[\/USER]: Incredible work on update v1.0.1, retuning the overall behaviour, adding core wheel temps and using brake temps to affect core wheel temps. Thank you so much for your contribution!\n- [USER=531843]@Redknee[\/USER]: Helped get me up and running with the UI, providing concept art and valuable feedback!\n\n[U]Changelog:[\/U]\nv1.2: Broken\/deflated wheels now show up as 0% in the UI app. Tyre width now contributes to the overall calculation, fixing the behaviour for lightweight cars with small tyres and vice versa;\nv1.1: Forced brake temps to default to environment temperature if they can't be read. Fixes bug with AI and wheels without brakes;\nv1.0.1: The big release! UI reworked, behaviour entirely retuned and wheel core temperatures added;\nv0.4: Major hotfix to a groundmodel related bug, which ruined v0.2 and v0.3;\nv0.3: 3 ring temperature system, treaded tyre support and overall improvement to behaviour.\nv0.2: Improved overall feel of the system and fixed most issues with overheating on slippery surfaces.\nv0.1: Alpha\/experimental version uploaded.\n\n[CENTER][I][I]If you use this mod in any videos, I'd love to get credit! Also, feel free to reach out to me, I'd love to see the videos my mod features in <3[\/I]\nAlso, feel free to message me on Discord, my name is [B]@.luuk[\/B] (note the dot!)[\/I][\/CENTER]",
+    "category_title": "",
+    "prefix_title": "Beta",
+    "via": "packed by repo on Tue, 16 Jan 2024 03:04:19 GMT",
+    "hashes": [
+        [
+            "scripts\/LuuksTyreThermalsAndWear\/modScript.lua",
+            "dc0078a9b8d9ff98"
+        ],
+        [
+            "lua\/vehicle\/extensions\/auto\/LuuksTyreThermalsAndWear.lua",
+            "69f8d373e3f22ef0"
+        ],
+        [
+            "lua\/.luarc.json",
+            "d5eb0063f20d912f"
+        ],
+        [
+            "lua\/ge\/extensions\/LuuksTyreThermalsAndWear.lua",
+            "c5439eb277acebfd"
+        ],
+        [
+            "ui\/modules\/apps\/TyreWearThermals\/app.js",
+            "7926fc1e5ce6902f"
+        ],
+        [
+            "ui\/modules\/apps\/TyreWearThermals\/app.png",
+            "29c4b32ad49d5dbf"
+        ],
+        [
+            "ui\/modules\/apps\/TyreWearThermals\/app.json",
+            "3dfebcbd93e83d56"
+        ]
+    ]
+}
